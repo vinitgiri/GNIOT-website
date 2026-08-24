@@ -80,4 +80,4 @@ The main objective of this project is to create a modern college website that pr
 
 ## 📄 License
 
-This project is created for educational and academic purposes.
+
