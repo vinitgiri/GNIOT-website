@@ -78,6 +78,6 @@ The main objective of this project is to create a modern college website that pr
 
 * GitHub: [@vinitgiri](https://github.com/vinitgiri)
 
-## 📄 License
+
 
 
