@@ -73,9 +73,7 @@ The main objective of this project is to create a modern college website that pr
 * Admin panel
 
 ## 👨‍💻 Author
-
 **Vinit kumar Giri**
-
 * GitHub: [@vinitgiri](https://github.com/vinitgiri)
 
 
