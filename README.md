@@ -72,6 +72,7 @@ The main objective of this project is to create a modern college website that pr
 * Firebase authentication
 * Admin panel
 
+* hello
 ## 👨‍💻 Author
 **Vinit kumar Giri**
 * GitHub: [@vinitgiri](https://github.com/vinitgiri)
